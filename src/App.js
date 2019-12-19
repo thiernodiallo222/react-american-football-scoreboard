@@ -8,12 +8,12 @@ function App() {
 
   // setting up the state value for Lions score
   const [LionsHomeScore, setLionsHomeScore] = useState(0);
-  const [LionsAwayScore, setLionsAwayScore] = useState(0);
+  // const [LionsAwayScore, setLionsAwayScore] = useState(0);
 
 
   // setting up the state value for Tigers team score
   const [TigersHomeScore, setTigersHomeScore] = useState(0);
-  const [TigersAwayScore, setTigersAwayScore] = useState(0);
+  // const [TigersAwayScore, setTigersAwayScore] = useState(0);
 
 
   // Handlers for lions
